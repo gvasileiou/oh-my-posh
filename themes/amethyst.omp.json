@@ -19,7 +19,7 @@
         {
           "background": "#CE93D8",
           "foreground": "#4527A0",
-          "leading_diamond": "\uE0B0<transparent,#CE93D8>\uE0B0</>",
+          "leading_diamond": "<transparent,#CE93D8></>",
           "style": "diamond",
           "template": "zsh  ",
           "trailing_diamond": "",
