@@ -30,13 +30,11 @@
           "powerline_symbol": "\ue0b0",
           "leading_powerline_symbol": "\ue0d7",
           "options": {
-            "folder_icon": "\uf07c ",
-            "folder_separator_icon": "<#011627>\ue0b1</> ",
-            "home_icon": " \ueb06 ",
-            "style": "agnoster"
+            "home_icon": "~",
+            "style": "full"
           },
           "style": "powerline",
-          "template": "{{ path .Path .Location }}",
+          "template": " {{ path .Path .Location }} ",
           "type": "path"
         },
         {
@@ -419,10 +417,5 @@
   ],
   "console_title_template": "{{ .Folder }}",
   "final_space": true,
-  "transient_prompt": {
-    "background": "transparent",
-    "foreground": "#d6deeb",
-    "template": "\ue285 "
-  },
   "version": 4
 }
