@@ -28,7 +28,6 @@
           "background": "#82AAFF",
           "foreground": "#011627",
           "powerline_symbol": "\ue0b0",
-          "leading_powerline_symbol": "\ue0d7",
           "options": {
             "home_icon": "~",
             "style": "full"
